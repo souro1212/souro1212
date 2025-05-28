@@ -9,4 +9,3 @@ I possess a robust background in application security with extensive experience 
 
 ![Souradip's GitHub stats](https://github-readme-stats.vercel.app/api?username=souro1212&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=souro1212&theme=dark)](https://git.io/streak-stats)
